@@ -1,0 +1,2855 @@
+{
+  "when": "2025-11-01T04:43:36.435Z",
+  "loop": [
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP001.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP002.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP003.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP004.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP005.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP006.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP007.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP008.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP009.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP010.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP011.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP012.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP013.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP014.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP015.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP016.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP017.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP018.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP019.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP020.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP021.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP022.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP023.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP024.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP025.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP026.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP027.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP028.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP029.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP030.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP031.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP032.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP033.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP034.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP035.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP036.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP037.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP038.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP039.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP040.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP041.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP042.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP043.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP044.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP045.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP046.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP047.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP048.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP049.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP050.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP051.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP052.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP053.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP054.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP055.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP056.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP057.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP058.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP059.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP060.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP061.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP062.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP063.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP064.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP065.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP066.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP067.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP068.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP069.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP070.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP071.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP072.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP073.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP074.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP075.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP076.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP077.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP078.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP079.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP080.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP081.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP082.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-loop-avif\\HERO_LOOP083.png",
+      "replaced": "avif->png(webp)",
+      "verify": {
+        "verified": true,
+        "meta": {
+          "format": "png",
+          "width": 1920,
+          "height": 1080,
+          "space": "srgb",
+          "channels": 4,
+          "depth": "uchar",
+          "isProgressive": false,
+          "isPalette": false,
+          "bitsPerSample": 8,
+          "hasProfile": false,
+          "hasAlpha": true,
+          "autoOrient": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      }
+    }
+  ],
+  "scroll": [
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA001.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA002.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA003.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA004.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA005.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA006.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA007.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA008.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA009.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA010.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA011.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA012.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA013.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA014.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA015.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA016.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA017.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA018.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA019.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA020.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA021.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA022.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA023.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA024.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA025.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA026.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA027.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA028.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA029.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA030.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA031.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA032.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA033.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA034.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA035.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA036.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA037.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA038.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA039.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA040.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA041.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA042.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA043.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA044.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA045.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA046.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA047.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA048.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA049.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA050.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA051.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA052.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA053.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA054.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA055.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA056.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA057.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA058.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA059.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA060.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA061.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA062.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA063.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA064.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA065.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA066.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA067.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA068.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA069.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA070.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA071.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA072.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA073.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA074.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA075.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA076.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA077.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA078.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA079.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA080.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA081.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA082.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA083.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA084.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA085.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA086.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA087.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA088.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA089.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA090.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA091.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA092.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA093.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA094.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA095.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA096.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA097.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA098.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA099.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA100.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA101.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA102.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA103.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA104.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA105.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA106.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA107.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA108.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA109.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA110.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA111.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA112.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA113.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA114.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA115.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA116.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA117.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA118.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA119.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA120.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA121.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA122.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA123.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA124.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA125.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA126.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA127.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA128.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA129.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA130.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA131.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA132.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA133.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA134.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA135.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA136.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA137.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA138.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA139.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA140.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA141.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA142.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA143.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA144.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA145.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA146.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA147.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA148.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA149.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA150.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA151.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA152.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA153.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA154.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA155.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA156.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA157.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA158.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA159.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA160.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA161.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA162.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA163.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA164.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA165.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA166.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA167.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA168.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA169.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA170.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA171.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA172.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA173.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA174.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA175.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA176.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA177.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA178.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA179.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA180.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA181.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA182.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA183.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA184.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA185.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA186.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA187.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA188.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA189.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA190.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA191.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA192.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA193.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA194.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA195.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA196.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA197.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA198.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA199.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA200.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA201.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA202.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA203.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA204.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA205.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA206.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA207.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA208.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA209.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA210.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA211.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA212.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA213.png",
+      "status": "skip_no_source_png"
+    },
+    {
+      "file": "C:\\Users\\Vhmel\\OneDrive\\Área de Trabalho\\projects\\spot-a\\public\\AnimationHero\\seq-scroll-avif\\HERO_QUEDA214.png",
+      "status": "skip_no_source_png"
+    }
+  ]
+}

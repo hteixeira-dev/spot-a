@@ -1,0 +1,373 @@
+"use client";
+import React, { useEffect, useLayoutEffect, useRef, useState } from "react";
+import { Canvas } from "@react-three/fiber";
+import * as THREE from "three";
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
+import HeroScrollComposite from "./components/HeroScrollComposite";
+import HeroStats from "./components/HeroStats";
+import type { ScrollTrigger as ST } from "gsap/ScrollTrigger";
+import type Lenis from "lenis";
+
+// Tipagem global para acessar window.lenis (sem any)
+declare global {
+  interface Window {
+    lenis?: Lenis;
+  }
+}
+
+// ===== Config específica para scroll =====
+const seqPropsScroll = {
+  orient: "flipY" as const,
+  fit: "cover" as const,
+  yPct: 15,
+  zoom: 1.1,
+};
+
+export default function Hero() {
+  const [scrollP, setScrollP] = useState(0);
+  const pinRef = useRef<HTMLDivElement>(null);
+
+  // Estado para controlar quando mostrar as estatísticas (último frame)
+  const [showStats, setShowStats] = useState(false);
+  const showStatsRef = useRef(showStats);
+  useEffect(() => {
+    showStatsRef.current = showStats;
+  }, [showStats]);
+
+  // ==== CONTROLES (pode mexer ao vivo) ====
+  const [rangePct, setRangePct] = useState(200);   // 2x altura da viewport para acelerar varredura dos 545 frames
+  const [scrubSmooth, setScrubSmooth] = useState(0); // 0 => true (scrub imediato); Lenis cuida da suavização
+  // Simplificados: sem painel de debug, marcadores sempre ocultos e grid oculta
+  const SHOW_MARKERS = false;
+  const HIDE_GRID = true;
+  // Total de frames da sequência de scroll (HERO_QUEDA001..545)
+  const SCROLL_COUNT = 545;
+  // NOVO: Desacopla a aparição das estatísticas do "último frame"
+  const STATS_START_PCT = Math.min(0.95, Math.max(0.0, Number(process.env.NEXT_PUBLIC_STATS_START_PCT ?? 0.45)));
+  const STATS_FADE_PCT  = Math.min(0.95, Math.max(0.05, Number(process.env.NEXT_PUBLIC_STATS_FADE_PCT  ?? 0.25)));
+
+  useLayoutEffect(() => {
+    let ctx: { revert: () => void } | null = null;
+
+    (async () => {
+      const { gsap } = await import("gsap");
+      const { ScrollTrigger } = await import("gsap/ScrollTrigger");
+      gsap.registerPlugin(ScrollTrigger);
+
+      const el = pinRef.current;
+      if (!el) return;
+
+      // Integração com Lenis - aguarda a instância estar disponível
+      const lenis = window.lenis;
+      if (lenis) {
+        // Integração oficial com Lenis via scrollerProxy apontando para o window
+        // para sincronizar medições com o scroller do Lenis.
+        ScrollTrigger.scrollerProxy(window, {
+          scrollTop(value?: number) {
+            if (typeof value === "number") {
+              lenis.scrollTo(value, { immediate: true });
+            }
+            return (lenis.scroll ?? window.scrollY) || 0;
+          },
+          getBoundingClientRect() {
+            return { top: 0, left: 0, width: window.innerWidth, height: window.innerHeight };
+          },
+          // Se Lenis aplica transform no body, o pin deve usar 'transform'; caso contrário, 'fixed'.
+          pinType: document.body.style.transform ? "transform" : "fixed",
+        });
+
+        lenis.on("scroll", ScrollTrigger.update);
+        ScrollTrigger.addEventListener("refresh", () => ScrollTrigger.update());
+      }
+
+      // ===== CONTROLES dinâmicos =====
+      const RANGE = `+=${rangePct}%`;                  // tempo total do pin
+      const SCRUB: true | number = scrubSmooth === 0 ? true : scrubSmooth;
+      const FADE_START_P = 0.0;                        // começa a desaparecer imediatamente
+      const FADE_SPAN_P  = 0.08;                       // conclui o fade um pouco mais rápido
+
+      ctx = gsap.context(() => {
+        // 1) PIN do Hero (dirige Canvas + fade por progress)
+        const mainST = ScrollTrigger.create({
+          trigger: el,
+          start: "top top",
+          end: RANGE,
+          scrub: SCRUB,
+          pin: true,
+          pinSpacing: true,
+          anticipatePin: 1,
+          invalidateOnRefresh: true,
+          refreshPriority: -90, // Prioridade baixa para funcionar bem com Lenis
+          markers: SHOW_MARKERS,
+          onUpdate: (s: ST) => {
+            // mantém sua seq-scroll
+            setScrollP(s.progress);
+            // === Fade sincronizado ao progress ===
+            const p = s.progress; // 0 → 1
+            let t = (p - FADE_START_P) / FADE_SPAN_P;
+            if (t < 0) t = 0;
+            if (t > 1) t = 1;
+
+            const alpha = 1 - t;
+            gsap.set("#hero-content", { autoAlpha: alpha, yPercent: -6 * t });
+
+            // grid pode ser ocultada pelo controle
+            const gridAlpha = HIDE_GRID ? 0 : alpha;
+            gsap.set(".bg-grid", { autoAlpha: gridAlpha });
+
+            const hc = document.getElementById("hero-content");
+            if (hc) hc.style.pointerEvents = alpha < 0.95 ? "none" : "auto";
+          },
+        });
+
+        // 2) Paralaxe do Canvas
+        gsap.to("#hero-canvas-wrap", {
+          yPercent: 8,
+          ease: "none",
+          scrollTrigger: { 
+            trigger: el, 
+            start: "top top", 
+            end: RANGE, 
+            scrub: SCRUB, 
+            refreshPriority: -90,
+            markers: SHOW_MARKERS 
+          },
+        });
+
+        // 3) Trigger independente para controlar a aparição das estatísticas
+        const pinDistancePx = () => window.innerHeight * (rangePct / 100);
+        const statsStartPx  = () => pinDistancePx() * STATS_START_PCT;
+        const statsFadePx   = () => pinDistancePx() * STATS_FADE_PCT;
+
+        ScrollTrigger.create({
+          trigger: el,
+          start: () => `top+=${statsStartPx()} top`,
+          end: () => `+=${statsFadePx()}`,
+          scrub: SCRUB,
+          invalidateOnRefresh: true,
+          refreshPriority: -85,
+          markers: SHOW_MARKERS,
+          onUpdate: (ss) => {
+            const prog = ss.progress; // 0..1 dentro da janela de fade das estatísticas
+            const statsAlpha = Math.min(1, Math.max(0, prog));
+            // Fade e leve movimento para cima conforme aparecem
+            gsap.set("#hero-stats", { autoAlpha: statsAlpha, yPercent: 6 * (1 - statsAlpha) });
+
+            // Liga/desliga renderização do conteúdo interno
+            if (prog > 0 && !showStatsRef.current) {
+              setShowStats(true);
+            } else if (prog <= 0 && showStatsRef.current) {
+              setShowStats(false);
+            }
+          },
+        });
+      }, el); // <- removido "as any", já garantimos el não nulo acima
+    })();
+
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    return () => ctx?.revert();
+  }, [rangePct, scrubSmooth, SHOW_MARKERS, HIDE_GRID]); // deps mantidas para satisfazer o lint
+
+  // Em produção, fontes/estilos podem terminar de carregar depois do mount e causar jitter no pin.
+  // Forçamos um refresh do ScrollTrigger no 'load' e com um pequeno timeout.
+  useEffect(() => {
+    let cancelled = false;
+    const doRefresh = async () => {
+      const { ScrollTrigger } = await import("gsap/ScrollTrigger");
+      if (!cancelled) ScrollTrigger.refresh();
+    };
+
+    const onLoad = () => { void doRefresh(); };
+    window.addEventListener("load", onLoad, { once: true });
+    const t = setTimeout(() => { void doRefresh(); }, 350);
+
+    const onResize = () => { void doRefresh(); };
+    window.addEventListener("resize", onResize);
+    window.addEventListener("orientationchange", onResize);
+
+    return () => {
+      cancelled = true;
+      window.removeEventListener("load", onLoad);
+      window.removeEventListener("resize", onResize);
+      window.removeEventListener("orientationchange", onResize);
+      clearTimeout(t);
+    };
+  }, []);
+
+  const showScroll = true;
+
+  return (
+    <section
+      id="hero"
+      ref={pinRef}
+      className="relative overflow-hidden bg-[#010510]"
+      style={{ height: "100vh" }}
+    >
+      {/* Fundo do Hero */}
+      <div
+        className="absolute inset-0 -z-10"
+        style={{
+          backgroundColor: "#010510",
+          backgroundImage: 'url("/hero/fundo.png")',
+          backgroundRepeat: "no-repeat",
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      />
+
+      {/* Canvas - Animação sempre abaixo dos botões e ocupando toda a largura */}
+      <div
+        id="hero-canvas-wrap"
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%",
+          margin: 0,
+          padding: 0,
+          overflow: "hidden",
+          zIndex: -1,
+          pointerEvents: "none",
+        }}
+      >
+        <Canvas
+          style={{
+            background: "transparent",
+            width: "100%",
+            height: "100%",
+            display: "block",
+            margin: 0,
+            padding: 0,
+            position: "absolute",
+            top: 0,
+            left: 0,
+          }}
+          dpr={[1, 1.1]}
+          frameloop="demand"
+          gl={{
+            alpha: true,
+            premultipliedAlpha: true,
+            antialias: false,
+            depth: false,
+            stencil: false,
+            powerPreference: "low-power",
+          }}
+          camera={{ position: [0, 0, 9.5], fov: 50 }}
+          onCreated={({ gl }) => {
+            gl.toneMapping = THREE.NoToneMapping;
+          }}
+        >
+          <HeroScrollComposite progress={scrollP} visible={showScroll} {...seqPropsScroll} />
+        </Canvas>
+      </div>
+
+      {/* Overlays (grid inicialmente oculta para evitar qualquer flash claro) */}
+      <div className="pointer-events-none absolute inset-0 z-[5] bg-grid opacity-0" />
+      <div className="pointer-events-none absolute inset-0 z-[6] bg-gradient-to-b from-transparent via-transparent to-transparent" />
+
+      {/* Conteúdo do Hero (texto/CTAs) */}
+      <div id="hero-content" className="relative z-[2000] mx-auto w-full px-4 sm:px-6 md:px-8 lg:px-14">
+        {/* topbar */}
+        <div className="flex items-center justify-between pt-6 sm:pt-8 md:pt-9 lg:pt-11">
+          <span
+            className="select-none text-white text-center text-sm sm:text-base md:text-lg"
+            style={{ fontFamily: "Poppins, sans-serif", fontWeight: 500, fontStyle: "italic", lineHeight: "100%" }}
+          >
+            SPOT-A
+          </span>
+
+          <Link
+            href="#contato"
+            className="inline-flex items-center justify-center rounded-[33.9px] border border-[#F3C53D]/60 bg-black/20 backdrop-blur-md h-8 sm:h-10 md:h-[46px] lg:h-[52px] px-3 sm:px-4 md:px-5 lg:px-6 transition-colors hover:border-[#F3C53D] text-xs sm:text-sm"
+            style={{ fontFamily: "Poppins, sans-serif", fontWeight: 500, textShadow: "0 0 4px rgba(255,255,255,.65)" }}
+          >
+            Contate-nos
+          </Link>
+        </div>
+
+        {/* bloco central */}
+        <div className="mx-auto flex max-w-[1100px] flex-col items-center text-center pt-12 sm:pt-16 md:pt-24 lg:pt-36 xl:pt-2">
+          <h1
+            className="bg-clip-text text-transparent tracking-tight px-2 sm:px-4"
+            style={{
+              fontFamily: "Proxima Nova, sans-serif",
+              fontWeight: 600,
+              fontSize: "clamp(24px, 6.5vw, 66px)",
+              lineHeight: "110%",
+              background:
+                "linear-gradient(180deg,#FFFFFF -11.46%,#FFFFFF 36.26%,#B5AEAE 58.06%,#DCDCDC 81.04%,#0B0B0B 111.08%)",
+              WebkitBackgroundClip: "text",
+              color: "transparent",
+            }}
+          >
+            <span className="sm:hidden">
+              <span className="block">Tráfego Pago para Atrair</span>
+              <span className="block">Leads Qualificados</span>
+              <span className="block">e Escalar Vendas</span>
+            </span>
+            <span className="hidden sm:block">
+              <span className="block">Tráfego Pago para Atrair Leads</span>
+              <span className="block">Qualificados e Escalar Vendas</span>
+            </span>
+          </h1>
+
+          <p
+            className="mt-4 sm:mt-5 md:mt-6 text-white/90 px-3 sm:px-4 max-w-[92%] sm:max-w-[80%] md:max-w-full"
+            style={{ fontFamily: "Poppins, sans-serif", fontWeight: 500, fontSize: "clamp(14px, 3.4vw, 19px)", lineHeight: "138%" }}
+          >
+            <span className="sm:hidden">
+              <span className="block">Transformamos marcas em potências digitais</span>
+              <span className="block">com estratégias de tráfego pago personalizadas,</span>
+              <span className="block">foco em leads qualificados e alta performance.</span>
+            </span>
+            <span className="hidden sm:block">
+              <span className="block">Transformamos marcas em potências digitais com estratégias de tráfego pago</span>
+              <span className="block">personalizadas, foco em leads qualificados e execução de alta performance.</span>
+            </span>
+          </p>
+
+          {/* CTAs */}
+          <div className="mt-6 sm:mt-7 md:mt-8 lg:mt-10 flex w-full items-center justify-center gap-2 sm:gap-3 md:gap-5 px-4 sm:px-0">
+            <Link
+              href="#vender"
+              className="group relative inline-flex h-11 sm:h-12 md:h-[52px] w-[48%] sm:w-[45%] md:w-[228px] items-center justify-center rounded-[33.9px]
+                         bg-[linear-gradient(180deg,_#E5AC02_0.96%,_rgba(78,58,0,0.89)_100.96%)]
+                         sm:bg-[linear-gradient(180deg,_#000000_0.96%,_rgba(25,25,25,0.89)_100.96%)]
+                         shadow-[inset_0px_0px_11.2px_1.41px_#F3C53D]
+                         sm:shadow-[inset_0px_0px_4.42px_2.26px_#F3C53D]
+                         backdrop-blur-[17.6px] sm:backdrop-blur-[24px]
+                         pl-4 pr-10 sm:pl-6 sm:pr-12 outline-none transition-all duration-200
+                         hover:brightness-110 hover:ring-2 hover:ring-[#F3C53D]/35 hover:border-transparent
+                         hover:bg-[linear-gradient(83.94deg,_#CA9700_-5.76%,_#765802_93.06%)]
+                         sm:hover:bg-[linear-gradient(83.94deg,_#CA9700_-5.76%,_#765802_93.06%)]
+                         focus:outline-none focus-visible:ring-2 focus-visible:ring-[#F3C53D]/45 active:brightness-105">
+              <span className="pointer-events-none select-none font-medium group-hover:font-bold text-xs sm:text-sm md:text-base">Começar a vender</span>
+              <ArrowRight className="absolute right-3 sm:right-4 md:right-6 top-1/2 h-[16px] w-[16px] sm:h-[18px] sm:w-[18px] md:h-[20px] md:w-[20px] -translate-y-1/2 text-white drop-shadow-[0_0_4px_rgba(255,255,255,0.7)]" strokeWidth={2} />
+            </Link>
+
+            <Link
+              href="https://wa.me/5511986542748?text=Olá! Gostaria de saber mais sobre os serviços de tráfego pago da Spot-A. Podem me ajudar a atrair leads qualificados e escalar minhas vendas?"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex h-11 sm:h-12 md:h-[52px] w-[48%] sm:w-[45%] md:w-[228px] items-center justify-center rounded-[33.9px] border border-[#F3C53D]/60 bg-black/20 backdrop-blur-md px-4 sm:px-5 md:px-7 transition-colors hover:border-[#F3C53D] text-xs sm:text-sm md:text-base">
+              Saiba mais
+            </Link>
+          </div>
+
+          <div className="h-[8vh] sm:h-[10vh] md:h-[12vh] lg:h-[14vh]" />
+        </div>
+      </div>
+
+      {/* Painel de debug removido para simplificar e reduzir peso de UI */}
+
+      {/* ===== Estatísticas do Hero (aparecem no último frame) ===== */}
+      <HeroStats
+        isVisible={showStats}
+        className="absolute inset-0 z-20 flex flex-col items-center justify-center px-6 sm:px-8 md:px-14"
+        id="hero-stats"
+      />
+    </section>
+  );
+}

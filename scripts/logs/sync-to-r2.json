@@ -1,0 +1,9 @@
+{
+  "bucket": "sopt-hero-sequence",
+  "endpoint": "https://8639723fcfa8a0d4cbfbde0f7c82bda2.r2.cloudflarestorage.com",
+  "baseLoop": "spot/hero/v1/seq-loop",
+  "baseScroll": "spot/hero/v1/seq-scroll",
+  "uploadedLoopCount": 83,
+  "uploadedScrollCount": 545,
+  "when": "2025-11-01T04:53:37.537Z"
+}
